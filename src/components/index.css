@@ -1,0 +1,11 @@
+.nav-link:hover{
+    scale: 1.1;
+    background-color: rgb(151, 151, 151);
+    border-radius: 20px;
+    padding:8px;
+    color:black;
+}
+.navbar-nav li{
+    margin-left:3px;
+    margin-right:3px;
+}
