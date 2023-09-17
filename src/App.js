@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 
 export default class App extends Component {
-  apiKey=process.env.REACT_APP_NEWS_API;
+  apiKey='3f12de0f9a97431d8c214c8a88f8ec9f';
   render() {
     
     return (
